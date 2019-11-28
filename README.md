@@ -24,7 +24,7 @@ To run it locally -
  Also replace `emailId='Your email'`,`password='your password'` with the gmail account details the mail would be sent from.
  Additionally you will have to change the account security settings and `allow` less secure apps.
 2. Make sure you have `npm` Node.js & MongoDB installed in your system.
-3. [Only once] Run (from the root) `cd server && sudo npm install` and `cd client && sudo npm install`.
+3. [Only once] Run (from the root) `cd server && sudo npm install` and `cd .. && cd client && sudo npm install`.
 4. Open two terminal windows (one for running Server and other for the UI).
 5. Start MongoDB service with `sudo service mongod start`. 
 6. Run `cd server && sudo node index.js` to start the server. By default it will run on `port 8000`.

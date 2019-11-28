@@ -11,6 +11,8 @@ Every entry would be stored in MongoDB
 ### Front-End - React
 
 ### Back-End - Node.js, Express.js & MongoDB
+### SMS service- Twilio
+### Mail- Nodemailer
 
 
 To run it locally -
